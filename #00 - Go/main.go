@@ -8,6 +8,7 @@ import (
 // constante
 const ProbandoPi float64 = 3.14 //se puede escribir dentro de una función
 
+// No sé como funciona esto, solo coloque el ejemplo para ver el uso del error.
 func dividir(a, b int) (int, error) {
 	if b == 0 {
 		return 0, errors.New("error al realizar la operación: división por cero")
@@ -46,7 +47,7 @@ func main() {
 	fmt.Println(dividir(25,5))
 }
 
-// No sé como funciona esto, solo coloque el ejemplo para ver el uso del error.
+
 
 /*
 	Tipos de datos:
