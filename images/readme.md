@@ -33,23 +33,23 @@ Para importar el archivo “accidentes.csv” en **HeidiSQL**, se deben seguir l
 
 1.  Ir a la sección de herramientas > Importar archivo CSV para poder cargar los datos de la base de datos.
 
-![image.png](image.png)
+![image.png](image1.png)
 
 1. Se va abrir esta ventana donde vamos a cargar nuestro archivo CSV con la configuración como se muestra en la imagen.
 
-![Debe estar configurado de la misma forma como se muestra en la imagen. En la primera línea se debe elegir el archivo “.csv”.   En la sección “Destino” se debe colocar la base de datos ya creada y en la opción tabla seleccionar nueva tabla.](image%201.png)
+![Debe estar configurado de la misma forma como se muestra en la imagen. En la primera línea se debe elegir el archivo “.csv”.   En la sección “Destino” se debe colocar la base de datos ya creada y en la opción tabla seleccionar nueva tabla.](image%2.png)
 
 Debe estar configurado de la misma forma como se muestra en la imagen. En la primera línea se debe elegir el archivo “.csv”.   En la sección “Destino” se debe colocar la base de datos ya creada y en la opción tabla seleccionar nueva tabla.
 
 1. Al momento de crear una tabla nueva, va a salir esta ventana donde se debe presionar en “OK, crear tabla”.
 
-![image.png](image%202.png)
+![image.png](image%3.png)
 
 Luego volverá a la pantalla anterior en donde se debe presionar el botón “!Importar¡”
 
 1. Generaremos una tabla que contendrá toda la información de forma completa. Posteriormente, esta información se dividirá en diferentes tablas para organizar de manera más eficiente y clara la estructura de la base de datos
 
-![image.png](image%203.png)
+![image.png](image%5.png)
 
 ## Creación del diagrama de la base de datos
 
