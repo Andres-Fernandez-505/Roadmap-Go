@@ -33,7 +33,7 @@ Para importar el archivo “accidentes.csv” en **HeidiSQL**, se deben seguir l
 
 1.  Ir a la sección de herramientas > Importar archivo CSV para poder cargar los datos de la base de datos.
 
-![image.png](image.png)
+![image.png](image1.png)
 
 1. Se va abrir esta ventana donde vamos a cargar nuestro archivo CSV con la configuración como se muestra en la imagen.
 
