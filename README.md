@@ -9,7 +9,7 @@ En nuestro caso hemos seleccionado una base de datos de siniestros viales del a�
 A continuación detallaremos el paso a paso.
 
 ## Índice
-[Importar archivo CSV](## Importar archivo CSV)
+[Importar archivo CSV](##Importar-archivo-CSV)
 
 ## Descarga de la base de datos
 
